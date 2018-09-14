@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LandCritter</string>
+    <string name="gcm_api">AIzaSyDB6haUiasz4BF1WeLZQ1kqBuwQafP2Nb8</string>
+    <string name="dir_api">AIzaSyA182AOcJlhQbk-Eq8ViSZAc2nXdyIBcF8</string>
+</resources>
